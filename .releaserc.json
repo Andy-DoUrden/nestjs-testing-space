@@ -13,7 +13,6 @@
     [
       "@semantic-release/git",
       {
-        "assets": ["package-lock.json", "CHANGELOG.md"],
         "message": "Version: ${nextRelease.version}"
       }
     ]
