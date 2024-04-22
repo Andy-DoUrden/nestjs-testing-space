@@ -1,3 +1,10 @@
+## [1.2.4](https://github.com/Andy-DoUrden/nestjs-testing-space/compare/v1.2.3...v1.2.4) (2024-04-22)
+
+
+### Bug Fixes
+
+* some ([69665ae](https://github.com/Andy-DoUrden/nestjs-testing-space/commit/69665ae4dd928a43118f1c0e605b7b32c23d6737))
+
 ## [1.2.3](https://github.com/Andy-DoUrden/nestjs-testing-space/compare/v1.2.2...v1.2.3) (2024-04-22)
 
 
