@@ -14,8 +14,7 @@ const config = {
       '@semantic-release/git',
       {
         assets: ['package.json', 'CHAMGELOG.md'],
-        message:
-          'message": "chore(release): ${nextRelease.version} [skip ci]\n\n${nextRelease.notes}',
+        message: 'message": ${nextRelease.version}',
       },
     ],
   ],
