@@ -76,6 +76,7 @@
       "@semantic-release/release-notes-generator",
       "@semantic-release/npm",
       "@semantic-release/github"
-    ]
+    ],
+    "repositoryUrl": "https://github.com/Andy-DoUrden/nestjs-testing-space"
   }
 }
