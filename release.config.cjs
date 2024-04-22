@@ -4,14 +4,21 @@ const config = {
     '@semantic-release/commit-analyzer',
     '@semantic-release/release-notes-generator',
     [
-      '@semantic-release/git',
+      '@semantic-release/changelog',
       {
-        assets: ['dist/*.js', 'dist/*.js.map'],
-        message:
-          'chore(release): ${nextRelease.version} [skip ci]\n\n${nextRelease.notes}',
+        changelogFile: 'CHANGELOG.md',
       },
     ],
+    '@semantic-release/npm',
     '@semantic-release/github',
+    [
+      '@semantic-release/git',
+      {
+        assets: ['package.json', 'CHAMGELOG.md'],
+        message:
+          'message": "chore(release): ${nextRelease.version} [skip ci]\n\n${nextRelease.notes}',
+      },
+    ],
   ],
 };
 module.exports = config;
