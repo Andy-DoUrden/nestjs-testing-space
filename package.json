@@ -77,6 +77,6 @@
       "@semantic-release/npm",
       "@semantic-release/github"
     ],
-    "repositoryUrl": "https://github.com/Andy-DoUrden/nestjs-testing-space/tree/development"
+    "repositoryUrl": "https://github.com/Andy-DoUrden/nestjs-testing-space"
   }
 }
