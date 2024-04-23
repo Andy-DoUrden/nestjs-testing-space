@@ -2,7 +2,7 @@
  * @type {import('semantic-release').GlobalConfig}
  */
 module.exports = {
-  branches: ['master', 'development'],
+  branches: ['main'],
   plugins: [
     [
       '@semantic-release/commit-analyzer',
@@ -36,19 +36,20 @@ module.exports = {
         },
       },
     ],
+    '@semantic-release/release-notes-generator',
     [
       '@semantic-release/changelog',
       {
         changelogFile: 'CHANGELOG.md',
       },
     ],
+    '@semantic-release/github',
     [
       '@semantic-release/git',
       {
         assets: ['package.json', 'CHANGELOG.md'],
-        message: 'Version: ${nextRelease.version}',
+        message: 'Verion: ${nextRelease.version}',
       },
     ],
-    '@semantic-release/github',
   ],
 };
