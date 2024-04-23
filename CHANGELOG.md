@@ -1,3 +1,11 @@
+## [6.0.2](https://github.com/Andy-DoUrden/nestjs-testing-space/compare/v6.0.1...v6.0.2) (2024-04-23)
+
+
+### Bug Fixes
+
+* fix ([471cca5](https://github.com/Andy-DoUrden/nestjs-testing-space/commit/471cca5fc962688d304ba3fdb50324c871cb2ef1))
+* fix npm ([a52d3c3](https://github.com/Andy-DoUrden/nestjs-testing-space/commit/a52d3c32ee019f15ab62b997566ba89b4d650194))
+
 ## [6.0.1](https://github.com/Andy-DoUrden/nestjs-testing-space/compare/v6.0.0...v6.0.1) (2024-04-23)
 
 
