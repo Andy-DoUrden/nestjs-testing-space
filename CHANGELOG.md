@@ -1,3 +1,12 @@
+## [5.0.1](https://github.com/Andy-DoUrden/nestjs-testing-space/compare/v5.0.0...v5.0.1) (2024-04-23)
+
+
+### Bug Fixes
+
+* fix fixing ([346bdae](https://github.com/Andy-DoUrden/nestjs-testing-space/commit/346bdae965c315f32db2491a4846e044b0e7b9d7))
+* fixed the semantic release ([ae17065](https://github.com/Andy-DoUrden/nestjs-testing-space/commit/ae17065cd7ed536958ac27d75a12afeb0eb8f8a7))
+* fixed the semantic release ([f96166b](https://github.com/Andy-DoUrden/nestjs-testing-space/commit/f96166b4cb262ea15abc9e6457ce738c2343d6cc))
+
 ## [1.2.4](https://github.com/Andy-DoUrden/nestjs-testing-space/compare/v1.2.3...v1.2.4) (2024-04-22)
 
 
