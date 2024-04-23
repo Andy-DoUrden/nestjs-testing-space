@@ -1,3 +1,13 @@
+## [5.0.2](https://github.com/Andy-DoUrden/nestjs-testing-space/compare/v5.0.1...v5.0.2) (2024-04-23)
+
+
+### Bug Fixes
+
+* fixing package issue ([7db96b0](https://github.com/Andy-DoUrden/nestjs-testing-space/commit/7db96b0f2314c4068e7c4ae1753831fea80a9fac))
+* fixing package issue ([b6454ad](https://github.com/Andy-DoUrden/nestjs-testing-space/commit/b6454adf15237e7e97a8a6c37f5665ad7e5f21c4))
+* idk at this point ([2379dec](https://github.com/Andy-DoUrden/nestjs-testing-space/commit/2379dec6cfefe52ec6f0b76a68f18b266202c8d6))
+* ifk at this point ([7ad22fa](https://github.com/Andy-DoUrden/nestjs-testing-space/commit/7ad22fae2467efeaaaa9b77ddfb629e2d6224fd8))
+
 ## [5.0.1](https://github.com/Andy-DoUrden/nestjs-testing-space/compare/v5.0.0...v5.0.1) (2024-04-23)
 
 
