@@ -1,3 +1,10 @@
+## [6.1.2](https://github.com/Andy-DoUrden/nestjs-testing-space/compare/v6.1.1...v6.1.2) (2024-04-23)
+
+
+### Bug Fixes
+
+* pezda ([830e145](https://github.com/Andy-DoUrden/nestjs-testing-space/commit/830e1451d754736beaf2f3091fcdfd2a9fca3d4b))
+
 ## [6.1.1](https://github.com/Andy-DoUrden/nestjs-testing-space/compare/v6.1.0...v6.1.1) (2024-04-23)
 
 
