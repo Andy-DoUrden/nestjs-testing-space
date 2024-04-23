@@ -1,3 +1,10 @@
+## [6.1.4](https://github.com/Andy-DoUrden/nestjs-testing-space/compare/v6.1.3...v6.1.4) (2024-04-23)
+
+
+### Bug Fixes
+
+* again blyat ([86e28ff](https://github.com/Andy-DoUrden/nestjs-testing-space/commit/86e28ff667db1f0767cd517927983e6892499e21))
+
 ## [6.1.3](https://github.com/Andy-DoUrden/nestjs-testing-space/compare/v6.1.2...v6.1.3) (2024-04-23)
 
 
