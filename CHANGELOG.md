@@ -1,3 +1,10 @@
+## [6.1.1](https://github.com/Andy-DoUrden/nestjs-testing-space/compare/v6.1.0...v6.1.1) (2024-04-23)
+
+
+### Bug Fixes
+
+* jopa ([6f9d003](https://github.com/Andy-DoUrden/nestjs-testing-space/commit/6f9d003f1029f9e20e9e97d11d86ea5e77d82420))
+
 # [6.1.0](https://github.com/Andy-DoUrden/nestjs-testing-space/compare/v6.0.2...v6.1.0) (2024-04-23)
 
 
