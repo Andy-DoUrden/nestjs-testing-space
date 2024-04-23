@@ -31,5 +31,5 @@ jobs:
       - name: Checkception - Run action locally with its own coverage
         uses: themichaelhall/check-code-coverage@v2
         with:
-          report: 'coverage/lcov-report/clover.xml'
+          report: 'coverage/clover.xml'
           required-percentage: 80
