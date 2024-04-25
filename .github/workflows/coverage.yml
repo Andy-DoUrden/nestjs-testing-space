@@ -12,4 +12,4 @@ jobs:
       - name: Generate coverage report
         uses: ArtiomTr/jest-coverage-report-action@v2
         with:
-          github-token: ${{ secrets.SECRET_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
